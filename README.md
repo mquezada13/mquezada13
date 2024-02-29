@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mquezada13
 - 👀 I’m interested in astroparticle physics
-- 🌱 I’m vegan
+- 🌱 I’m vegetarian
 - 💞️ I’m looking to collaborate on more astro-physics
 - 📫 How to reach me elizza.rmz91@gmail.com
 
