@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Maura
 
-I'm a physicist with a background in astrophysics, now exploring how to apply my skills to data-driven problems.  
-From dark matter in white dwarfs to clustering customer behavior — I'm building a bridge between science and data science.
+I'm a physicist working at the intersection of theoretical research and data analysis. My background is in astrophysics, with experience in, dark matter interactions, and phase transitions in the early universe.
+
+I'm currently exploring how to apply these skills to more general data problems — building a portfolio that combines scientific computing with core machine learning techniques.
+
 
 ---
 
