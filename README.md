@@ -23,7 +23,7 @@ From dark matter in white dwarfs to clustering customer behavior — I'm buildin
 - 🛰️ [White Dwarf Analysis (Gaia DR3)](https://github.com/mquezada13/white-dwarf-analysis-gaia)  
   Data cleaning, filtering, and visualization of high-mass DA white dwarfs using real Gaia data.
 
-- 🧪 [Phase Transitions & Dark Matter in Compact Stars](https://github.com/mquezada13/Effective_potential_V5)  
+- 🧪 [First Order Phase Transitions](https://github.com/mquezada13/Effective_potential_V5)  
   Numerical simulations and model-building in the context of early-universe cosmology.
 
 ---
