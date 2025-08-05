@@ -1,5 +1,5 @@
 # 👩‍🔬 Maura E. Ramirez-Quezada  
-I'm a physicist with over a decade of experience applying numerical methods to study complex physical systems — from dark matter in stellar remnants to phase transitions in the early universe. I specialize in **scientific programming in Python**, **numerical modeling**, and **data analysis** across real-world and synthetic datasets.
+I'm a PhD physicist with experience on applying numerical methods to study complex physical systems — from dark matter in stellar remnants, such as white dwarfs and neutron stars, to phase transitions in the early universe. I specialize in **scientific programming in Python**, **numerical modeling**, and **data analysis** across real-world and synthetic datasets.
 
 Currently, I’m transitioning into the **data science and machine learning space**, leveraging a strong foundation in physics, coding, and problem solving to tackle new challenges at the interface of science and technology.
 
@@ -17,9 +17,10 @@ Currently, I’m transitioning into the **data science and machine learning spac
 
 ## 🌌 Research & Technical Highlights
 
+These projects represent my most impactful academic contributions — each driven by custom-built numerical code, modeling pipelines, and extensive data analysis in Python.
 - 🪐 **Dark Matter in Compact Stars**  
-  Designed numerical tools to model DM capture and annihilation in white dwarfs and neutron stars. Explored heating, neutrino emission, and gravitational wave signals as observable signatures.
-
+  Designed numerical tools to model DM capture and annihilation in white dwarfs and neutron stars. Explored luminosity from anomalous heating as an observable signature.
+  
 - 🧊 **White Dwarf Cooling via Neutrino Emission in Dark Sector Models**  
   Studied the impact of a dark photon in a three-portal model on the neutrino emission rates from white dwarfs. Derived constraints on dark sector parameters by comparing the predicted energy loss to astrophysical luminosity bounds.
 
