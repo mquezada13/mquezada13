@@ -47,7 +47,7 @@ You can find selected projects here:
 - 🏠 [**House Price Regression**](https://github.com/mquezada13/house-price-regression)  
 - 🛍️ [**Customer Segmentation (K-Means)**](https://github.com/mquezada13/customer-segmentation-kmeans)  
 - 🔍 [**Classification Workflow**](https://github.com/mquezada13/classification-workflow)  
-- ⚠️ [**Anomaly Detection** *(in progress)*](https://github.com/mquezada13/anomaly-detection)
+- ⚠️ [**Anomaly Detection**](https://github.com/mquezada13/anomaly-detection)
 
 ---
 
