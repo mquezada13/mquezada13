@@ -1,5 +1,5 @@
 # 👩‍🔬 Maura E. Ramirez-Quezada  
-I'm a PhD physicist with experience on applying numerical methods to study complex physical systems — from dark matter in stellar remnants, such as white dwarfs and neutron stars, to phase transitions in the early universe. I specialize in **scientific programming in Python**, **numerical modeling**, and **data analysis** across real-world and synthetic datasets.
+I'm a PhD physicist with experience on applying numerical methods to study complex physical systems — from dark matter in stellar remnants, such as white dwarfs and neutron stars, to phase transitions in the early universe. I specialize in **scientific programming in Python**, **numerical modeling**, and **data analysis**.
 
 Currently, I’m transitioning into the **data science and machine learning space**, leveraging a strong foundation in physics, coding, and problem solving to tackle new challenges at the interface of science and technology.
 
