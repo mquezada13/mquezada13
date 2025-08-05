@@ -73,7 +73,7 @@ You can find selected projects here:
 - [**Cooling of white dwarfs via hidden sectors**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.043014)  
 - [**Dark matter heating of white dwarfs**](https://iopscience.iop.org/article/10.1088/1475-7516/2021/10/083)  
 - [**Vortex creep heating of neutron stars**](https://iopscience.iop.org/article/10.1088/1475-7516/2024/03/051)  
-- [**Leptogenesis and neutrinoless double‑beta decay**]([https://arxiv.org/abs/2502.10093](https://link.springer.com/article/10.1140/epjc/s10052-025-14487-1))
+- [**Leptogenesis and neutrinoless double‑beta decay**](https://link.springer.com/article/10.1140/epjc/s10052-025-14487-1)
 
 ---
 
