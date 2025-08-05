@@ -81,10 +81,3 @@ You can find selected projects here:
 
 - 📧 Email: mramirez@uni-mainz.de  
 - 💻 GitHub: [github.com/mquezada13](https://github.com/mquezada13)
-
----
-
-## 🚀 Let’s connect
-
-I’m open to opportunities where **analytical rigor**, **numerical modeling**, and **data-driven insight** meet real-world impact — whether in research, industry, or cross-disciplinary innovation.
-
