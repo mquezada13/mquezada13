@@ -10,7 +10,7 @@ Currently, I’m transitioning into the **data science and machine learning spac
 - 🛰️ [**White Dwarf Analysis (Gaia DR3)**](https://github.com/mquezada13/white-dwarf-analysis-gaia)  
   Data cleaning, selection, and visualization of DA white dwarfs using Gaia DR3 data.
 
-- 🌡️ [**First Order Phase Transitions**](https://github.com/mquezada13/Effective_potential_V5)  
+- 🌡️ [**First Order Phase Transitions**](https://github.com/mquezada13/FOPT_Dark_Photon_DRalgo)  
   Numerical modeling of thermal potentials and bubble nucleation in BSM cosmologies, including stability checks and interpolation grids.
 
 ---
