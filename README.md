@@ -51,7 +51,7 @@ You can find selected practices here:
 - ⚠️ [**Anomaly Detection**](https://github.com/mquezada13/anomaly-detection)
 
 and my most current project:
-- 🥩[**Meat consumption pileline**](https://github.com/mquezada13/meat-consumption-analysis)
+- 🥩[**Meat consumption pipe line**](https://github.com/mquezada13/meat-consumption-analysis)
 
 ---
 
