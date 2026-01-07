@@ -43,12 +43,15 @@ As part of my transition into data science, I’ve developed and applied end-to-
 - Anomaly detection under data imbalance  
 - Workflow development using `scikit-learn`, `pandas`, and `matplotlib`
 
-You can find selected projects here:
+You can find selected practices here:
 
 - 🏠 [**House Price Regression**](https://github.com/mquezada13/house-price-regression)  
 - 🛍️ [**Customer Segmentation (K-Means)**](https://github.com/mquezada13/customer-segmentation-kmeans)  
 - 🔍 [**Classification Workflow**](https://github.com/mquezada13/classification-workflow)  
 - ⚠️ [**Anomaly Detection**](https://github.com/mquezada13/anomaly-detection)
+
+and my most current project:
+- 🥩[**Meat consumption pileline**](https://github.com/mquezada13/meat-consumption-analysis)
 
 ---
 
