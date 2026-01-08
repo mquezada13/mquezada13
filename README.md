@@ -51,8 +51,9 @@ You can find selected practices here:
 - 🔍 [**Classification Workflow**](https://github.com/mquezada13/classification-workflow)  
 - ⚠️ [**Anomaly Detection**](https://github.com/mquezada13/anomaly-detection)
 
-and my most current project:
+and  most current projects:
 - 🥩 [**Meat consumption pipeline**](https://github.com/mquezada13/meat-consumption-analysis)
+- 🎲 [**Decision under uncertainty (in progress 🛠️😵‍💫)**](https://github.com/mquezada13/decisio-under-uncertainty)
 
 ---
 
