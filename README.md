@@ -2,17 +2,6 @@
 I'm a PhD physicist with experience on applying numerical methods to study complex physical systems — from dark matter in stellar remnants, such as white dwarfs and neutron stars, to phase transitions in the early universe. I specialize in **scientific programming in Python**, **numerical modeling**, and **data analysis**.
 
 Currently, I’m transitioning into the **data science and machine learning space**, leveraging a strong foundation in physics, coding, and problem solving to tackle new challenges at the interface of science and technology.
-
----
-
-## 🔬 Scientific Code Projects
-
-- 🛰️ [**White Dwarf Analysis (Gaia DR3)**](https://github.com/mquezada13/white-dwarf-analysis-gaia)  
-  Data cleaning, selection, and visualization of DA white dwarfs using Gaia DR3 data.
-
-- 🌡️ [**First Order Phase Transitions**](https://github.com/mquezada13/FOPT_Dark_Photon_DRalgo)  
-  Numerical modeling of thermal potentials and bubble nucleation in BSM cosmologies, including stability checks and interpolation grids.
-
 ---
 
 ## 🌌 Research & Technical Highlights
@@ -29,6 +18,18 @@ These projects represent my most impactful academic contributions — each drive
 
 - 🔌 **Thermal Leptogenesis Constraints from Neutrino Observables**  
   Performed numerical scans in a type-I seesaw framework with three heavy Majorana neutrinos. Used flavored density matrix formalism to derive the minimum heavy neutrino mass (\(M_1^{\rm min}\)) consistent with the observed baryon asymmetry, as a function of low-energy neutrino observables such as \(m_{\text{lightest}}\) and \(m_{\beta\beta}^{\rm eff}\).
+
+
+---
+
+## 🔬 Scientific Code Projects
+
+- 🛰️ [**White Dwarf Analysis (Gaia DR3)**](https://github.com/mquezada13/white-dwarf-analysis-gaia)  
+  Data cleaning, selection, and visualization of DA white dwarfs using Gaia DR3 data.
+
+- 🌡️ [**First Order Phase Transitions**](https://github.com/mquezada13/FOPT_Dark_Photon_DRalgo)  
+  Numerical modeling of thermal potentials and bubble nucleation in BSM cosmologies, including stability checks and interpolation grids.
+
 
 ---
 
