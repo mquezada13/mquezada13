@@ -53,7 +53,8 @@ You can find selected practices here:
 
 and  most current projects:
 - 🥩 [**Meat consumption pipeline**](https://github.com/mquezada13/meat-consumption-analysis)
-- 🎲 [**Decision under uncertainty (in progress 🛠️😵‍💫)**](https://github.com/mquezada13/decisio-under-uncertainty)
+- 🎲 [**Decision under uncertainty**](https://github.com/mquezada13/decisio-under-uncertainty) (in progress 🚧)
+
 
 ---
 
