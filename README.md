@@ -85,5 +85,5 @@ and  most current projects:
 
 ## 📫 Contact
 
-- 📧 Email: mramirez@uni-mainz.de  
+- 📧 Email: maura.e.quezada@gmail.com
 - 💻 GitHub: [github.com/mquezada13](https://github.com/mquezada13)
