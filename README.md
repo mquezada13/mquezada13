@@ -2,7 +2,7 @@
 
 **Astroparticle Physics | Scientific Data Analysis | Python Software Development**
 
-I'm a PhD physicist working in scientific data analysis and software development at Julius-Maximilians-Universität Würzburg, contributing to NASA's **Compton Spectrometer and Imager (COSI)** mission.
+I'm a PhD physicist working in scientific data analysis and software development at Julius-Maximilians-Universität Würzburg, contributing to **Compton Spectrometer and Imager (COSI)** mission.
 
 My work focuses on developing and validating computational methods for MeV gamma-ray astronomy, with particular emphasis on **residual analysis, statistical model validation, and instrumental background modeling**.
 
