@@ -12,7 +12,7 @@ My scientific background spans astroparticle physics, dark matter phenomenology,
 
 ## 🛰️ Current Research | COSI
 
-I work on the development and application of data analysis methods for the [**Compton Spectrometer and Imager (COSI)**](https://cosi.ssl.berkeley.edu/), a NASA gamma-ray telescope designed to investigate the MeV sky.
+I work on the development and application of data analysis methods for the [**Compton Spectrometer and Imager (COSI)**](https://cosi.ssl.berkeley.edu/), a gamma-ray telescope designed to investigate the MeV sky.
 
 My research centers on two main areas:
 
