@@ -1,89 +1,119 @@
-# 👩‍🔬 Maura E. Ramirez-Quezada  
-I'm a PhD physicist with experience on applying numerical methods to study complex physical systems — from dark matter in stellar remnants, such as white dwarfs and neutron stars, to phase transitions in the early universe. I specialize in **scientific programming in Python**, **numerical modeling**, and **data analysis**.
+# 👩‍🔬 Maura E. Ramirez-Quezada
 
-Currently, I’m transitioning into the **data science and machine learning space**, leveraging a strong foundation in physics, coding, and problem solving to tackle new challenges at the interface of science and technology.
----
+**Astroparticle Physics | Scientific Data Analysis | Python Software Development**
 
-## 🌌 Research & Technical Highlights
+I'm a PhD physicist working in scientific data analysis and software development at Julius-Maximilians-Universität Würzburg, contributing to NASA's **Compton Spectrometer and Imager (COSI)** mission.
 
-These projects represent my most impactful academic contributions — each driven by custom-built numerical code, modeling pipelines, and extensive data analysis in Python.
-- 🪐 **Dark Matter in Compact Stars**  
-  Designed numerical tools to model DM capture and annihilation in white dwarfs and neutron stars. Explored luminosity from anomalous heating as an observable signature.
-  
-- 🧊 **White Dwarf Cooling via Neutrino Emission in Dark Sector Models**  
-  Studied the impact of a dark photon in a three-portal model on the neutrino emission rates from white dwarfs. Derived constraints on dark sector parameters by comparing the predicted energy loss to astrophysical luminosity bounds.
+My work focuses on developing and validating computational methods for MeV gamma-ray astronomy, with particular emphasis on **residual analysis, statistical model validation, and instrumental background modeling**.
 
-- 🌀 **Thermal Phase Transitions in Hidden Sectors**  
-  Developed Python-based simulations for studying first-order phase transitions in the early universe. Generated testable predictions for gravitational wave detectors like LISA and DECIGO.
-
-- 🔌 **Thermal Leptogenesis Constraints from Neutrino Observables**  
-  Performed numerical scans in a type-I seesaw framework with three heavy Majorana neutrinos. Used flavored density matrix formalism to derive the minimum heavy neutrino mass (\(M_1^{\rm min}\)) consistent with the observed baryon asymmetry, as a function of low-energy neutrino observables such as \(m_{\text{lightest}}\) and \(m_{\beta\beta}^{\rm eff}\).
-
+My scientific background spans astroparticle physics, dark matter phenomenology, compact stars, and early-universe cosmology. I combine this experience with scientific programming, numerical modeling, and statistical data analysis to investigate complex physical systems.
 
 ---
 
-## 🔬 Scientific Code Projects
+## 🛰️ Current Research | COSI
 
-- 🛰️ [**White Dwarf Analysis (Gaia DR3)**](https://github.com/mquezada13/white-dwarf-analysis-gaia)  
-  Data cleaning, selection, and visualization of DA white dwarfs using Gaia DR3 data.
+I work on the development and application of data analysis methods for the [**Compton Spectrometer and Imager (COSI)**](https://cosi.ssl.berkeley.edu/), a NASA gamma-ray telescope designed to investigate the MeV sky.
 
-- 🌡️ [**First Order Phase Transitions**](https://github.com/mquezada13/FOPT_Dark_Photon_DRalgo)  
-  Numerical modeling of thermal potentials and bubble nucleation in BSM cosmologies, including stability checks and interpolation grids.
+My research centers on two main areas:
 
+### Residual Analysis & Model Validation
 
----
+My primary project focuses on developing **residual-based diagnostic tools** to assess the agreement between observed data and model predictions, evaluate statistical fits, and identify potential systematic discrepancies in COSI analyses.
 
-## 🧠 Machine Learning Portfolio
+### Instrumental Background Modeling
 
-As part of my transition into data science, I’ve developed and applied end-to-end ML workflows with the same analytical rigor I bring to physics research. My work includes:
+My second research area focuses on the **characterization and modeling of instrumental backgrounds** in COSI observations, supporting the development of reliable statistical analyses of gamma-ray data.
 
-- Preprocessing and cleaning real-world and synthetic datasets  
-- Feature engineering and dimensionality reduction  
-- Supervised learning with model comparison and performance evaluation  
-- Unsupervised learning for clustering and pattern discovery  
-- Anomaly detection under data imbalance  
-- Workflow development using `scikit-learn`, `pandas`, and `matplotlib`
+### COSI Analysis & Software Projects
 
-You can find selected practices here:
+- **[Residual Analysis | COSI Data Challenges 3 & 4](https://github.com/mquezada13/data-challenge-3-4-exploration)**  
+  Scientific Python workflows for COSI data analysis and the development of residual-based model validation methods.
 
-- 🏠 [**House Price Regression**](https://github.com/mquezada13/house-price-regression)  
-- 🛍️ [**Customer Segmentation (K-Means)**](https://github.com/mquezada13/customer-segmentation-kmeans)  
-- 🔍 [**Classification Workflow**](https://github.com/mquezada13/classification-workflow)  
-- ⚠️ [**Anomaly Detection**](https://github.com/mquezada13/anomaly-detection)
-
-and  most current projects:
-- 🥩 [**Meat consumption pipeline**](https://github.com/mquezada13/meat-consumption-analysis)
-- 🎲 [**Decision under uncertainty**](https://github.com/mquezada13/decisio-under-uncertainty) (in progress 🚧)
+- **[Instrumental Background Modeling | cosipy-background-nf](https://github.com/mquezada13/cosipy-background-nf)**  
+  Development and exploration of computational methods for instrumental background modeling in COSI.
 
 
 ---
+
+## 🌌 Research Background | Particle Physics & Astrophysics
+
+My previous research focused on physics beyond the Standard Model, combining theoretical modeling, numerical calculations, and astrophysical constraints.
+
+**Dark Matter in Compact Stars**  
+Numerical modeling of dark matter interactions, capture, and heating in white dwarfs and neutron stars.
+
+**White Dwarf Cooling & Hidden Sectors**  
+Investigation of neutrino emission, stellar cooling, and astrophysical constraints on dark-sector physics.
+
+**First-Order Phase Transitions**  
+Computational studies of thermal phase transitions and gravitational-wave signatures in early-universe cosmology.
+
+**Thermal Leptogenesis**  
+Numerical analysis of leptogenesis and neutrino observables using [**ULYSSES**](https://github.com/earlyuniverse/ulysses), including parameter-space exploration and baryon asymmetry calculations within neutrino mass models.
+
+---
+
+## 🔬 Selected Scientific Computing Projects
+
+- **[White Dwarf Analysis | Gaia DR3](https://github.com/mquezada13/white-dwarf-analysis-gaia)**  
+  Astronomical data processing, selection, and visualization using Gaia DR3 observations.
+
+- **[First-Order Phase Transitions](https://github.com/mquezada13/FOPT_Dark_Photon_DRalgo)**  
+  Numerical modeling of thermal potentials and bubble nucleation in BSM cosmology, including interpolation techniques and numerical stability analysis.
+
+---
+
+
+## 🧠 Data Science & Machine Learning
+
+My computational experience also includes machine learning, signal processing, feature engineering, and predictive modeling, combining academic research with applied data science experience.
+
+### Applied Data Science | Science to Data Science (S2DS)
+
+As part of the **S2DS programme (Pivigo)**, I worked on an industry-sponsored project involving multimodal time-series data and machine learning.
+
+Developed an end-to-end Python pipeline for signal processing, feature extraction, and classification, with an emphasis on robust model evaluation, cross-validation, and reproducibility.
+
+*The project was developed for an industry partner, and the source code is proprietary.*
+
+### Selected Personal Projects
+
+- [Meat Consumption Analysis](https://github.com/mquezada13/meat-consumption-analysis)
+- [House Price Regression](https://github.com/mquezada13/house-price-regression)
+- [Customer Segmentation](https://github.com/mquezada13/customer-segmentation-kmeans)
+- [Classification Workflow](https://github.com/mquezada13/classification-workflow)
+- [Anomaly Detection](https://github.com/mquezada13/anomaly-detection)
+
+---
+
 
 ## 🛠️ Tools & Technologies
 
-`Python` · `NumPy` · `pandas` · `SciPy` · `matplotlib` · `astropy`  
-`Jupyter Notebooks` · `Git` · `scikit-learn` · `Markdown` · `.fits`
+**Programming & Scientific Computing**  
+`Python` · `NumPy` · `SciPy` · `pandas` · `Matplotlib` · `Astropy`
 
----
+**Gamma-Ray Astronomy & Statistical Analysis**  
+`cosipy` · `Spectral Fitting` · `Forward Folding` · `Residual Analysis` · `Likelihood Methods` · `Background Modeling` · `Model Validation`
 
-## 📌 Current Focus
+**Machine Learning**  
+`scikit-learn` · `XGBoost` · `LightGBM` · `Feature Engineering` · `Cross-Validation`
 
-- Bridging physics and data science through hands-on projects  
-- Building and refining ML pipelines for real-world and synthetic data  
-- Preparing for roles in data analysis, computational R&D, or machine learning — with a strong foundation in modeling and scientific thinking
+**Software & Reproducibility**  
+`Git` · `GitHub` · `Jupyter` · `VS Code` · `FITS` · `Scientific Workflows`
 
 ---
 
 ## 📄 Selected Publications
 
-- [**Boosted dark matter in white dwarfs**](https://link.springer.com/article/10.1007/JHEP05(2025)160)  
-- [**Cooling of white dwarfs via hidden sectors**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.043014)  
-- [**Dark matter heating of white dwarfs**](https://iopscience.iop.org/article/10.1088/1475-7516/2021/10/083)  
-- [**Vortex creep heating of neutron stars**](https://iopscience.iop.org/article/10.1088/1475-7516/2024/03/051)  
-- [**Leptogenesis and neutrinoless double‑beta decay**](https://link.springer.com/article/10.1140/epjc/s10052-025-14487-1)
+- [**Boosted dark matter in white dwarfs**](https://link.springer.com/article/10.1007/JHEP05(2025)160)
+- [**Cooling of white dwarfs via hidden sectors**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.043014)
+- [**Dark matter heating of white dwarfs**](https://iopscience.iop.org/article/10.1088/1475-7516/2021/10/083)
+- [**Vortex creep heating of neutron stars**](https://iopscience.iop.org/article/10.1088/1475-7516/2024/03/051)
+- [**Leptogenesis and neutrinoless double-beta decay**](https://link.springer.com/article/10.1140/epjc/s10052-025-14487-1)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: maura.e.quezada@gmail.com
-- 💻 GitHub: [github.com/mquezada13](https://github.com/mquezada13)
+- 📧 **Email:** [maura.e.quezada@gmail.com](mailto:maura.e.quezada@gmail.com)
+- 💻 **GitHub:** [github.com/mquezada13](https://github.com/mquezada13)
